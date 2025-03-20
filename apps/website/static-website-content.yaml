@@ -2,6 +2,7 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: static-website-content
+  namespace: soma
 data:
   index.html: |
     <!DOCTYPE html>

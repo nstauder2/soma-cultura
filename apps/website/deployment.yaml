@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: static-website
-  namespace: default
+  namespace: soma
 spec:
   replicas: 2
   selector:
