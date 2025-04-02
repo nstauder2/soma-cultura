@@ -1,11 +1,12 @@
+<style type="text/css">
+    .site-header {
+        background-image: url("/soma-cultura/assets/img/red-flowers-top-left");
+        background-position: left;
+        background-size: cover;
+    }
+</style>
 <header class="site-header">
-    <style type="text/css">
-        .page-heading {
-            background-image: url("/soma-cultura/assets/img/red-flowers-top-left");
-            background-position: left;
-            background-size: cover;
-        }
-    </style>
+    
     <div class="wrapper">
       {%- assign default_paths = site.pages | map: "path" -%}
       {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
