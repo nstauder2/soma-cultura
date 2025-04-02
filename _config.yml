@@ -24,8 +24,8 @@ email: daniela@somaculturatherapy.com
 description: >- # this means to ignore newlines until "baseurl:"
   Soma Cultura is a virtual mental-health therapy practice that provides services to adult (18+ years) clients that speak English or Spanish.
 baseurl: /soma-cultura/ # the subpath of your site, e.g. /blog
-domain: soma-cultura.github.io
-url: https://soma-cultura.github.io # the base hostname & protocol for your site, e.g. http://example.com
+domain: nstauder2.github.io
+url: https://nstauder2.github.io # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 linkedin_username:  daniela-lopez-vives-52591293
 
