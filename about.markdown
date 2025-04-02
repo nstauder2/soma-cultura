@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /about/
 ---
-<img src="/assets/img/daniela.png">
+<img src="/soma-cultura/assets/img/daniela.png">
 
 <h1>¡Hola!</h1>
 
